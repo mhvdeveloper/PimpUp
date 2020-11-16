@@ -1,0 +1,102 @@
+/*Pagina Inicio*/
+
+header .logo-pimpup{
+	width: 70px;
+	height: auto;
+}
+header .topb-1{
+	background: #EBEBEB;
+	padding: 10px 0;
+}
+header .topb-2{
+	background: #1C1C1C;
+}
+header .topb-2{
+	padding: 10px 0;
+}
+header .topb-2 a{
+	color: #fff;
+	padding: 10px 0;
+	font-size: 14px;
+	font-weight: normal;
+}
+header .topb-mail{
+	margin-right: 50px;
+}
+header .topb-tel{
+	margin-right: 50px;
+}
+
+header .logo-template{
+	width: 200px;
+}
+
+#nav-principal{
+	padding: 18px 0;
+}
+
+#menu-principal .nav-link{
+	padding: 6px 17px;
+	font-size: 15px;
+	border-radius: 4px;
+	color: #444444;
+}
+#menu-principal .nav-link.active{
+	color: #FFFFFF;
+    background-color: #F19301;
+}
+.btn-link1{
+	color: #fff;
+	background-color: #4D5BA5;
+	border-radius: 20px;
+	font-size: 13px;
+	font-weight: 600;
+	padding: 6px 40px;
+	float: left;
+	cursor: pointer;
+}
+header .carro-compras{
+	float: left;
+	margin-left: 15px;
+	cursor: pointer;
+}
+header .carro-compras img{
+	width: 25px;
+	height: 25px;
+}
+
+
+/*Content*/
+
+/*Slider*/
+.slider{
+	background: #ccc;
+	height: 600px;
+	width: 100%;
+}
+
+
+
+
+/*Footer*/
+footer{
+	font-weight: 400;
+	font-size: 14px;
+}
+.footer{
+	color: #969696;
+	background-color: #212121;
+	padding: 70px 0;
+}
+.footer .logo-footer{
+	width: 180px;
+	height: auto;
+	margin-bottom: 20px;
+
+}
+.footer-bottom{
+	background-color: #303030;
+	color: #969696;
+	padding: 20px 0;
+}
+
